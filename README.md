@@ -5,3 +5,20 @@ This project sho;wcases a mechanical joint built and animated using [Onshape](ht
 
 Mechanical Joint with Screw Mechanism – Onshape Project
 Created and Simulated in the " Onshape "  Online CAD Platform
+
+
+
+ 📽️ Features
+
+- Fully functional screw mechanism
+- Custom-designed parts built from scratch
+- Joint motion driven by rotational input
+- Accurate simulation using Onshape constraints
+- Parametric design, easily modifiable
+
+ 🔗 Project Link: 
+https://cad.onshape.com/documents/581bb99e1e3cc0b9eb6088cc/w/d3c514f2dff0f8a454f99eb9/e/300f419260025f593e3b1ef0?renderMode=0&uiState=688649851d8de531aaf23345
+
+
+
+ ✍️ Author: rose Asim Qawqandi
